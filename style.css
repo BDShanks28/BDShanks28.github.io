@@ -8,6 +8,7 @@ h1 {
     font-family: "Times New Roman", Georgia, serif;
     font-size: 40px;
     border-style: double;
+    border-color: black;
 }
 p {
     color: black;
