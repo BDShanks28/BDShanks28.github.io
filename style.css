@@ -12,8 +12,7 @@ p {
     color: black;
     font-family: "Times New Roman", Times, serif;
     font-size: 14px;
-    border-style: double;
-    border-color: black;
+    border: 50px double black;
 }
 
 h2 {
